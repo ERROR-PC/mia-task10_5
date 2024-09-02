@@ -45,7 +45,7 @@ This repository contains an Arduino sketch for reading the yaw angle from an MPU
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/MPU6050-Yaw-Reader.git
+    git clone https://github.com/ERROR-PC/mia-task10_5.git
     ```
 2. **Open the Project**:
    - Open the `.ino` file in the Arduino IDE.
